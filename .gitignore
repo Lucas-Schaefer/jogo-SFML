@@ -1,0 +1,20 @@
+
+*.pdb
+*.exe
+*.idb
+*.tlog
+*.log
+*.recipe
+*.user
+*.filters
+*.vcxproj
+*.ilk
+*.sln
+*.ipch
+*.obj
+*.opendb
+*.db-wal
+*.db-shm
+*.db
+Jogo SFML c++/.vs/Jogo SFML c++/v17/.suo
+*.vsidx
