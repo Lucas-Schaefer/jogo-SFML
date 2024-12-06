@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:source\\ente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:headers\\ente.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "origem.cpp",
-              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\origem.cpp",
-              "RelativeDocumentMoniker": "origem.cpp",
-              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\origem.cpp*",
-              "RelativeToolTip": "origem.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Title": "ente.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp",
+              "RelativeDocumentMoniker": "source\\ente.cpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp",
+              "RelativeToolTip": "source\\ente.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T18:03:49.106Z",
+              "WhenOpened": "2024-12-06T18:28:04.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ente.hpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
+              "RelativeDocumentMoniker": "headers\\ente.hpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
+              "RelativeToolTip": "headers\\ente.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T18:19:57.352Z",
               "EditorCaption": ""
             }
           ]
