@@ -1,6 +1,6 @@
 #include <iostream>
 #include "entidade.hpp"
-using namespace std
+using namespace std;
 class Projetil: public Entidade
 {
   protected:
