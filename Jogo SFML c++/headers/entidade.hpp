@@ -11,5 +11,8 @@ namespace Entes
       public:
             Entidade();
             ~Entidade();
+            virtual void executar();
+            virtual void salvar();
+            void salvarDataBuffer();
       };
 }
