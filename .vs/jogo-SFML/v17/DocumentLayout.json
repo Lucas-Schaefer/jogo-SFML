@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\lista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\source\\lista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\jogador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\source\\jogador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\personagem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\source\\personagem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\jogador.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\headers\\jogador.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\entidade.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\headers\\entidade.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\personagem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\headers\\personagem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\entidade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\source\\entidade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\source\\ente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\headers\\ente.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +50,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gerenciador_grafico.hpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T17:01:50.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gerenciador_grafico.cpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T17:01:54.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ente.hpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T17:00:16.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ente.cpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\source\\ente.cpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\source\\ente.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T17:00:21.393Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lista.cpp",
-              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\lista.cpp",
-              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\source\\lista.cpp",
-              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\lista.cpp",
-              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\source\\lista.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "entidade.hpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\entidade.hpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\headers\\entidade.hpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\entidade.hpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\headers\\entidade.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T17:00:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "entidade.cpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\entidade.cpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\source\\entidade.cpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\entidade.cpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\source\\entidade.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T01:15:00.509Z",
+              "WhenOpened": "2024-12-14T17:12:27.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "personagem.hpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\personagem.hpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\headers\\personagem.hpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\personagem.hpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\headers\\personagem.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T17:00:19.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\main.cpp",
-              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\source\\main.cpp",
-              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\main.cpp",
-              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\source\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "personagem.cpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\personagem.cpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\source\\personagem.cpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\personagem.cpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\source\\personagem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T01:14:46.229Z",
+              "WhenOpened": "2024-12-14T18:31:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jogador.hpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\jogador.hpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\headers\\jogador.hpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\jogador.hpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\headers\\jogador.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T21:19:50.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jogador.cpp",
+              "DocumentMoniker": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\jogador.cpp",
+              "RelativeDocumentMoniker": "Jogo SFML c\u002B\u002B\\source\\jogador.cpp",
+              "ToolTip": "C:\\Users\\dados\\source\\repos\\Lucas-Schaefer\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\jogador.cpp",
+              "RelativeToolTip": "Jogo SFML c\u002B\u002B\\source\\jogador.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T21:23:44.95Z",
               "EditorCaption": ""
             }
           ]
