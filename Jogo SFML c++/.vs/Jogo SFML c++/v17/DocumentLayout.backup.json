@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:source\\gerenciador_grafico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:headers\\gerenciador_grafico.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:headers\\ente.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,12 +19,20 @@
       "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:source\\ente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:headers\\gerenciador_grafico.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\jogador.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:headers\\jogador.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:source\\gerenciador_grafico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\personagem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:headers\\personagem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\jogador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:source\\jogador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\entidade.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40AA15A-833F-4D0B-B01D-1534E125854A}|Jogo SFML c\u002B\u002B.vcxproj|solutionrelative:headers\\entidade.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +42,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "gerenciador_grafico.cpp",
-              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
-              "RelativeDocumentMoniker": "source\\gerenciador_grafico.cpp",
-              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
-              "RelativeToolTip": "source\\gerenciador_grafico.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T19:00:42.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "gerenciador_grafico.hpp",
-              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
-              "RelativeDocumentMoniker": "headers\\gerenciador_grafico.hpp",
-              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
-              "RelativeToolTip": "headers\\gerenciador_grafico.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-06T18:44:03.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ente.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp",
               "RelativeDocumentMoniker": "source\\ente.cpp",
               "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\ente.cpp",
               "RelativeToolTip": "source\\ente.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T18:28:04.949Z",
+              "WhenOpened": "2024-12-17T23:28:02.087Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gerenciador_grafico.hpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
+              "RelativeDocumentMoniker": "headers\\gerenciador_grafico.hpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\gerenciador_grafico.hpp",
+              "RelativeToolTip": "headers\\gerenciador_grafico.hpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T00:11:26.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "gerenciador_grafico.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
+              "RelativeDocumentMoniker": "source\\gerenciador_grafico.cpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\gerenciador_grafico.cpp",
+              "RelativeToolTip": "source\\gerenciador_grafico.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T00:09:28.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "personagem.hpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\personagem.hpp",
+              "RelativeDocumentMoniker": "headers\\personagem.hpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\personagem.hpp",
+              "RelativeToolTip": "headers\\personagem.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T00:06:34.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "entidade.hpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\entidade.hpp",
+              "RelativeDocumentMoniker": "headers\\entidade.hpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\entidade.hpp",
+              "RelativeToolTip": "headers\\entidade.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T00:04:32.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jogador.hpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\jogador.hpp",
+              "RelativeDocumentMoniker": "headers\\jogador.hpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\jogador.hpp",
+              "RelativeToolTip": "headers\\jogador.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T23:37:34.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jogador.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\jogador.cpp",
+              "RelativeDocumentMoniker": "source\\jogador.cpp",
+              "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\source\\jogador.cpp",
+              "RelativeToolTip": "source\\jogador.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T23:31:09.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ente.hpp",
               "DocumentMoniker": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
               "RelativeDocumentMoniker": "headers\\ente.hpp",
               "ToolTip": "C:\\Users\\Lucas Schaefer\\Documents\\Tecnicas de Programacao\\jogo SFML c\u002B\u002B\\jogo-SFML\\Jogo SFML c\u002B\u002B\\headers\\ente.hpp",
               "RelativeToolTip": "headers\\ente.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-06T18:19:57.352Z",
+              "WhenOpened": "2024-12-17T23:33:35.077Z",
               "EditorCaption": ""
             }
           ]

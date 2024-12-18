@@ -1,21 +1,67 @@
-#include<iostream>
-#include<SFML/Graphics.hpp>
-#include "gerenciador_grafico.hpp"
-#define TELAX 1600.0f
-#define TELAY 900.0f
-using namespace std;
+#include "../headers/ente.hpp"
+#include "../headers/gerenciador_grafico.hpp"
+
 using namespace sf;
-namespace Gerenciadores {
-	Gerenciador_grafico* Gerenciador_grafico::pGerenciador = nullptr;
-	Gerenciador_grafico* Gerenciador_grafico::getGerenciador()
+
+namespace Gerenciadores
+{
+	Gerenciador_Grafico* Gerenciador_Grafico::pGerenciador = nullptr;
+
+	Gerenciador_Grafico::Gerenciador_Grafico() :
+		janela(new RenderWindow(VideoMode(TELA_X, TELA_Y), "Caves of Doom"))
 	{
-		if (pGerenciador == nullptr)
+		if (janela == nullptr)
 		{
-			return new Gerenciador_grafico;
-		}
-		else
-		{
-			return pGerenciador;
+			cout << "Erro alocando a janela!!" << endl;
+			exit(1);
 		}
 	}
+
+	Gerenciador_Grafico::~Gerenciador_Grafico()
+	{
+		if (janela)
+		{
+			delete(janela);
+			janela = nullptr;
+		}
+	}
+
+	Gerenciador_Grafico* Gerenciador_Grafico::getGerenciador()
+	{
+		pGerenciador == nullptr ? pGerenciador = new Gerenciador_Grafico() : pGerenciador;
+
+		return pGerenciador;
+	}
+
+	sf::RenderWindow* Gerenciador_Grafico::getJanela()
+	{
+		return janela;
+	}
+
+	void Gerenciador_Grafico::limpaTela()
+	{
+		janela->clear();
+	}
+
+	void Gerenciador_Grafico::desenhaElemento(const RectangleShape& corpo)
+	{
+		janela->draw(corpo);
+	}
+
+	void Gerenciador_Grafico::mostraElemento()
+	{
+		janela->display();
+	}
+
+	void Gerenciador_Grafico::fecharJanela()
+	{
+		if (janela->isOpen())
+			janela->close();
+	}
+
+	bool Gerenciador_Grafico::getOpen()
+	{
+		return janela->isOpen();
+	}
+
 }

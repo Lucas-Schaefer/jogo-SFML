@@ -1,15 +1,20 @@
 #pragma once
-#include "ente.hpp"
 
-namespace Entes
+#include <SFML/Graphics.hpp>
+
+using namespace sf;
+
+namespace Entidades
 {
-      class Entidade: public Ente
-      {
-      protected:
-            int x;
-            int y;
-      public:
-            Entidade();
-            ~Entidade();
-      };
+	class Entidade
+	{
+	protected:
+		RectangleShape corpo;
+
+	public:
+		Entidade(const Vector2f pos, const Vector2f tam);
+		~Entidade();
+		const RectangleShape getCorpo() const;
+
+	};
 }

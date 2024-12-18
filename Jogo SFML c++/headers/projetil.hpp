@@ -1,5 +1,5 @@
 #include <iostream>
-#include "entidade.hpp"
+#include "../headers/entidade.hpp"
 using namespace std;
 class Projetil: public Entidade
 {

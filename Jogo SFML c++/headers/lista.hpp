@@ -1,14 +1,5 @@
-#include <iostream>
-#include "elemento.hpp"
-using namespace std;
+#pragma once
 class Lista
 {
-  private:
-      Elemento<TL> * pPrimeiro;
-      Elemento<TL> * pUltimo;
-  public:
-      Lista();
-      ~Lista();
-      void incluir(TL* p);
-      void limpar();
-}
+};
+

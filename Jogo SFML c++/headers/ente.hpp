@@ -1,13 +1,19 @@
 #pragma once
-#include<iostream>
-using namespace std;
+#include "../headers/gerenciador_grafico.hpp"
+#include <SFML/Graphics.hpp>
+
+
 class Ente
 {
-protected: 
+protected:
 	int id;
-	static Gerenciadores::Gerenciador_grafico* gerenciador_grafico;
+	static Gerenciadores::Gerenciador_Grafico* pGG;
+	sf::RectangleShape corpo;
+
 public:
-	Ente();
+	Ente(sf::Vector2f tamanho = sf::Vector2f(50.f, 50.f));
 	~Ente();
-	int getId();
+	virtual void executar() = 0;
+	const sf::RectangleShape* get_corpo() const;
+	void desenhar();
 };
